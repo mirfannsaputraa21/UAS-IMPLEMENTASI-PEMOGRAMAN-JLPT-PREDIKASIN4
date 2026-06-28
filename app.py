@@ -292,7 +292,7 @@ with st.sidebar:
     
     st.markdown("#### 📖 Tentang Aplikasi")
     st.markdown("""
-    Aplikasi ini menggunakan algoritma **Random Forest** 
+    Aplikasi ini menggunakan algoritma **Decision Treet** 
     untuk memprediksi kelulusan JLPT N4 berdasarkan hasil tryout.
     """)
     
